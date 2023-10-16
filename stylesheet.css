@@ -126,7 +126,7 @@ body {
     font-size: 0.8em;
   }
    
-   (min-width: 1040px) {
+  @media (min-width: 1040px) {
     .container {
       grid-template-areas: 'sidebar content' 'sidebar footer';
       grid-template-rows: 1fr auto;
@@ -175,5 +175,13 @@ body {
     footer ul li a img {
       width: 20%;
     }
+  }
   
+  
+    
  
+ 
+ 
+       
+   
+    
