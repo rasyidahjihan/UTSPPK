@@ -126,7 +126,7 @@ body {
     font-size: 0.8em;
   }
    
-  @media (min-width: 1040px) {
+   (min-width: 1040px) {
     .container {
       grid-template-areas: 'sidebar content' 'sidebar footer';
       grid-template-rows: 1fr auto;
